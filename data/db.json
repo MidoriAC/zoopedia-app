@@ -1,0 +1,238 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "usuario": "Alfredo Cano",
+      "email": "alfredo.cano@gmail.com"
+    }
+  ],
+  "animals": [
+    {
+      "id": "mammal-bornean-orangutan",
+      "name": "Orangután de Borneo",
+      "category": "Mamífero",
+      "region": "Tropical",
+      "conservation_status": "En peligro Crítico",
+      "scientific_name": "Pongo Pygmaeus",
+      "description": "Como indica su nombre, el orangután de Borneo (Pongo pygmaeus) es nativo de la isla homónima, tanto de la parte indonesia como de la malaya. Son unos grandes simios reconocibles por su pelaje rojizo y su piel marrón. Los machos, además, presentan unas grandes bridas en las mejillas y una bolsa en la garganta con la que emiten sonidos fuertes para atraer a las hembras. Son unos animales extremadamente inteligentes que utilizan herramientas para conseguir comida. Sin embargo, no saben nadar y su territorio suele quedar delimitado por aquellos ríos que no consiguen atravesar."
+    },
+    {
+      "id": "bird-emu",
+      "name": "Emú",
+      "category": "Pájaro",
+      "region": "Pradera",
+      "conservation_status": "Preocupación menor",
+      "scientific_name": "Dromaius novaehollandiae",
+      "description": "El emú (Dromaius novaehollandiae) es la segunda especie de ave no voladora más grande del mundo por detrás del avestruz, y habita en las sabanas y bosques de Australia. Posee un cuello largo y sin plumas que puede presentar un tono azulado, un plumaje marrón desgreñado que comienza a mitad del cuello y largas patas grises con grandes garras de tres dedos. También tienen el pico gris y los ojos naranjas, y cuentan con un penacho sobre la cabeza. Los machos y las hembras son similares, aunque estas suelen ser más grandes y pesadas. Los emúes macho miden entre 1,5 m y 1,8 m de alto y de 1,39 m a 1,57 m de largo, y su peso oscila entre los 30 kg y los 55 kg. Las hembras, por su parte, miden entre 1,6 m y 1,9 m de alto y de 1,5 m a 1,64 m de largo, con un peso entre 35 kg y 60 kg."
+    },
+    {
+      "id": "mammal-lar-gibbon",
+      "name": "Gibón de Manos Blancas",
+      "category": "Mamífero",
+      "region": "Tropical",
+      "conservation_status": "En Peligro",
+      "scientific_name": "Hylobates lar",
+      "description": "El gibón de manos blancas (Hylobates lar) es un primate que vive en las selvas de Indonesia, Laos, Malasia, Birmania y Tailandia. Su pelaje puede variar del color marrón oscuro al rojizo, tostado o crema. Su cara es negra y está enmarcada por un aro característico de pelo blanco. Sus manos y patas también son blancas. Los machos y las hembras de esta especie son muy similares, con una longitud de 42 cm a 59 cm y un peso de 4 kg a 7,6 kg.",
+      "alt_img": null
+    },
+    {
+      "id": "bird-southern-cassowary",
+      "name": "Casuario Austral",
+      "category": "Pájaro",
+      "region": "Tropical",
+      "conservation_status": "Preocupación menor",
+      "scientific_name": "Casuarius casuarius",
+      "description": "El casuario austral es una gran ave incapaz de volar que habita las selvas, manglares y praderas de Papúa Nueva Guinea, Indonesia y el norte de Australia. Tiene plumas negras con aspecto de pelo enmarañado, además de patas y garras grises y robustas. El casuario austral presenta un característico casco marrón sobre la cabeza y un pico curvo marrón oscuro, mientras que el cuello es de un azul brillante y la parte superior de la cabeza, azul claro. La parte trasera del cuello es naranja y cuenta con dos papos rojos colgantes en la garganta. A pesar de que ambos sexos son similares, las hembras son bastante más grandes que los machos, tienen una cresta y un pico más grandes, y una coloración más brillante. El macho del casuario austral puede medir entre 112 y 136 cm, y pesar entre 29 y 34 kg, mientras que las hembras alcanzan entre 140 y 170 cm, y pesan de 46 a 69 kg."
+    },
+    {
+      "id": "mammal-capybara",
+      "name": "Capibara",
+      "category": "Mamífero",
+      "region": "Tropical",
+      "conservation_status": "Preocupaciópn menor",
+      "scientific_name": "Hydrochaeris hydrochaeris",
+      "description": "El capibara también llamado carpincho es el roedor más grande del mundo. La longitud corporal va de 100 a 130 cm, la cola es vestigial (corta) y el peso es de 27 a 79 Kg. La hembra es menos pesada, puede llegar a pesar 60 Kg. El pelaje es largo y áspero y se encuentra tan disperso que la piel es visible. La coloración varía de café rojizo a grisáceo en las partes superiores, y café amarillenta en las inferiores. Ocasionalmente, algunos tonos negros se presentan en el rostro, la parte externa de las patas y la grupa."
+    },
+    {
+      "id": "bird-tile-tanager",
+      "name": "Tangara Azuleja",
+      "category": "Pájaro",
+      "region": "Montañosa",
+      "conservation_status": "Preocupación menor",
+      "scientific_name": "Thraupis episcopus",
+      "description": "Mide 18 cm de longitud y pesa en promedio 35 g. Los adultos tienen la cabeza y las partes inferiores del cuerpo color gris azulado claro, las partes dorsales son azules oscuras, con verde azul brillante en las alas y la cola, y los hombros con diferentes matices de azul. El pico es corto y grueso. Los dos sexos son similares, pero los inmaduros son de plumaje de color más deslavado. Se reconocen numerosas subespecies, de acuerdo a las variaciones en el matiz de azul en el hombro con respecto al resto del plumaje; pueden ser grisáceos, verdosos o azul púrpura con hombros color lavanda, azul oscuro o blanquecino."
+    },
+    {
+      "id": "mammal-ricino-americano",
+      "name": "Castor Americano",
+      "category": "Mamífero",
+      "region": "Templado",
+      "conservation_status": "Preocupaciópn menor",
+      "scientific_name": "Castor Canadensis",
+      "description": "El castor americano es una de las dos especies de castores ya existentes a nivel global. Pertenece a la familia Castoridae y se caracteriza por ser un roedor semiacuático, además de ser la segunda especie capaz de dar forma o modificar su entorno."
+    },
+    {
+      "id": "bird-ostrich",
+      "name": "Avestruz",
+      "category": "Pájaro",
+      "region": "Pradera",
+      "conservation_status": "Preocupación menor",
+      "scientific_name": "Struthio Camelus",
+      "description": "El avestruz es de cuello largo, carente de plumas en casi toda su extensión y provisto de un plumón lanoso. La cabeza es relativamente pequeña y aplanada. El pico corto y romo, mide unos 12 centímetros y en su extremo tiene una uña córnea; los ojos son muy grandes, brillantes y protegidos por los párpados bien desarrollados y provistos, sobre todo los superiores, de largas pestañas negras. Las patas son largas, sin plumas en casi toda su extensión y muy musculosas. Las alas están atrofiadas."
+    },
+    {
+      "id": "mammal-gray-seal",
+      "name": "Foca Gris",
+      "category": "Mamífero",
+      "region": "Templado",
+      "conservation_status": "Preocupación menor",
+      "scientific_name": "Halichoerus grypus",
+      "description": "Es una foca grande, con ejemplares macho en las poblaciones atlánticas del este que alcanzan 2 o 3 m de largo y que pesan 170-310 kg. Las hembras son mucho más pequeñas, típicamente 1'6-2 m de largo y 100-190 kg de peso. Los individuos del Atlántico occidental suelen ser mucho más grandes, los machos que alcanzan 400 kg y las hembras pesan hasta 250 kg. Se distingue de la foca común por el perfil recto de su cabeza, fosas nasales bien separadas, y menos puntos en el cuerpo. Las focas grises carecen de orejas externas y característicamente tienen hocicos grandes. Los machos son generalmente más oscuros que las hembras, con puntos más ligeros y a menudo cicatrices alrededor del cuello. Las hembras son de color gris plata a marrón con puntos oscuros."
+    },
+    {
+      "id": "bird-manchurian-crane",
+      "name": "Grulla de Manchuria",
+      "category": "Pájaro",
+      "region": "Templado",
+      "conservation_status": "En peligro",
+      "scientific_name": "Grus japonensis",
+      "description": "Vive en praderas y altos valles con áreas pantanosas, donde la altura constituye una ventaja natural, al poder tener visión del peligro desde una distancia segura. Anda con lentas zancadas, deteniéndose a picotear comida, que puede tener un tamaño relativamente pequeño. Ratones, ranas e insectos grandes, y también semillas, yemas y hojas forman su dieta."
+    },
+    {
+      "id": "mammal-amur-leopard",
+      "name": "Leopardo de Amur",
+      "category": "Mamífero",
+      "region": "Templado",
+      "conservation_status": "En peligro Crítico",
+      "scientific_name": "Panthera pardus orientails",
+      "description": "El leopardo del Amur (Panthera pardus orientalis) es la subespecie de leopardo más rara que existe. Está en peligro crítico de extinción; solo existen en libertad entre 25 y 34 ejemplares, en la reserva de Sijote-Alin (Siberia), y su endogamia los coloca al borde de la extinción total. También quedan ejemplares en libertad en la zona desmilitarizada (ZDC) que separa Corea del Norte y Corea del Sur. La mayor parte de los ejemplares de esta subespecie viven en zoológicos de Europa y Estados Unidos."
+    },
+    {
+      "id": "bird-common-peacock",
+      "name": "Pavo Real Común",
+      "category": "Pájaro",
+      "region": "Templado",
+      "conservation_status": "Preocupación menor",
+      "scientific_name": "Pavo cristatus",
+      "description": "El pavo real es una ave llamativa desde tiempos remotos por su colorido plumaje de la cola en forma de abanico policromado con diseño de ocelos, la cual es lucida por los machos para el cortejo y defensa del territorio. La hembra por el contrario, lucen un plumaje más discreto el cual le permitirá pasar desapercibida al cuando está en el nido. El macho tiene una longitud de entre 100-115 cm del pico a la cola, alcanzando los 195-225 cm hasta el extremo de las largas plumas especializadas que conforman el abanico —cola secundaria— cuando están plenamente desarrolladas. Su peso es de 4-6 kg. La hembra es más pequeña, con una longitud de unos 95 cm y un peso de 2,75-4 kg."
+    },
+    {
+      "id": "mammal-panda-bear",
+      "name": "Oso Panda",
+      "category": "Mamífero",
+      "region": "Templado",
+      "conservation_status": "Vulnerable",
+      "scientific_name": "Ailuropoda melanoleuca",
+      "description": "A pesar del número de ejemplares limitado y de las reducidas zonas donde habita, es uno de los animales más reconocibles de todos los rincones del mundo. Durante larga tiempo estuvo en grave riesgo de extinción y se convirtió el símbolo del Fondo Mundial para la Naturaleza. Actualmente la cantidad ejemplares en libertad está en aumento. El apetito de este mamífero es insaciable y puede llegar a pasar más de la mitad del día comiendo aquello que más le gusta sin descanso: bambú. Además también se alimenta de algunos frutos y pequeños animales. A pesar de su aspecto torpe y lento es un animal muy ágil trepando a los árboles así como desplazándose por el agua a nado. Suelen tener un comportamiento solitario, excepto cuando buscan aparearse. Las hembras pasan un periodo de gestación de 5 meses hasta que nace la cría, totalmente ciega y blanca.  Suelen vivir entre quince y veinte años, pesan unos 130 kilos y pueden llegar a medir 1'5 metros. Su hábitat natural son las zonas montañosas de China."
+    },
+    {
+      "id": "bird-blue-penguin",
+      "name": "Pinguino Azul",
+      "category": "Pájaro",
+      "region": "Templado",
+      "conservation_status": "Preocupación menor",
+      "scientific_name": "Eudyptula minor",
+      "description": "El pingüino azul (Eudyptula minor), conocido también como pingüino enano, pingüino pequeño o pingüino del hada,[2]​ es la especie de pingüino más pequeña y vive en las costas de Nueva Zelanda y las islas Chatham, al igual que en el sur de Australia y Tasmania. También se ha visto en la chilena isla Chañaral en 1996, en la playa de Santo Domingo (el 16 de marzo de 1997), pero no está claro si estas aves se habían extraviado. También se ha sugerido que puede haber colonias aún por descubrir en la parte chilena de la Patagonia. Recientemente ha sido avistado un pingüino azul vivo en Namibia, en la isla Ichaboe, en abril de 2005. Hay muchas subespecies, pero una clasificación precisa de estas aún está siendo discutida"
+    },
+    {
+      "id": "bird-toco-toucan",
+      "name": "Tucán Toco",
+      "category": "Pájaro",
+      "region": "Tropical",
+      "conservation_status": "Preocupación menor",
+      "scientific_name": "Ramphastos toco",
+      "description": "El tucán toco es conocido por su pico largo y colorido, que puede alcanzar hasta un tercio de la longitud total de su cuerpo. Habita en las selvas tropicales de América del Sur y se alimenta principalmente de frutas."
+    },
+    {
+      "id": "bird-bald-eagle",
+      "name": "Águila Calva",
+      "category": "Pájaro",
+      "region": "Templado",
+      "conservation_status": "Preocupación menor",
+      "scientific_name": "Haliaeetus leucocephalus",
+      "description": "El águila calva es el símbolo nacional de los Estados Unidos. Es un ave rapaz grande y majestuosa que se encuentra principalmente en América del Norte. Su cabeza blanca y su pico amarillo son rasgos distintivos."
+    },
+    {
+      "id": "bird-hummingbird",
+      "name": "Colibrí",
+      "category": "Pájaro",
+      "region": "Variada",
+      "conservation_status": "Diversas especies en diferentes estados de conservación",
+      "scientific_name": "Trochilidae",
+      "description": "Los colibríes son pequeños pájaros conocidos por su capacidad de volar en el lugar y por sus plumajes iridiscentes. Son nativos de América y son importantes polinizadores de muchas plantas."
+    },
+    {
+      "id": "bird-kakapo",
+      "name": "Araña Azul",
+      "category": "Pájaro",
+      "region": "Templado",
+      "conservation_status": "Preocupación menor",
+      "scientific_name": "Cyanoramphus novaezelandiae",
+      "description": "El araña azul, también conocido como perico maorí, es una especie de loro endémica de Nueva Zelanda. Presenta un plumaje mayoritariamente verde, con manchas de color azul en las alas y la cabeza."
+    },
+    {
+      "id": "bird-flamingo",
+      "name": "Flamenco",
+      "category": "Pájaro",
+      "region": "Variada",
+      "conservation_status": "Preocupación menor",
+      "scientific_name": "Phoenicopteridae",
+      "description": "Los flamencos son aves zancudas conocidas por su largo cuello y su plumaje rosa brillante. Suelen habitar lagunas saladas y lagos poco profundos en regiones tropicales y templadas."
+    },
+    {
+      "id": "mammal-african-elephant",
+      "name": "Elefante Africano",
+      "category": "Mamífero",
+      "region": "Tropical y templado",
+      "conservation_status": "Vulnerable",
+      "scientific_name": "Loxodonta africana",
+      "description": "Los elefantes africanos son los animales terrestres más grandes del mundo. Se caracterizan por sus grandes orejas y colmillos, que están presentes en ambos sexos y están formados por dientes modificados."
+    },
+    {
+      "id": "mammal-lion",
+      "name": "León",
+      "category": "Mamífero",
+      "region": "Tropical y templado",
+      "conservation_status": "Vulnerable",
+      "scientific_name": "Panthera leo",
+      "description": "Los leones son grandes felinos conocidos por su melena en los machos. Son depredadores sociales que viven en manadas, principalmente en las sabanas de África subsahariana."
+    },
+    {
+      "id": "mammal-bottlenose-dolphin",
+      "name": "Delfín Nariz de Botella",
+      "category": "Mamífero",
+      "region": "Oceánica",
+      "conservation_status": "Preocupación menor",
+      "scientific_name": "Tursiops truncatus",
+      "description": "Los delfines nariz de botella son mamíferos marinos inteligentes y sociales. Se caracterizan por su hocico alargado y redondeado, que se asemeja a una botella. Son comunes en aguas templadas y tropicales de todo el mundo."
+    },
+    {
+      "id": "mammal-black-rhinoceros",
+      "name": "Rinoceronte Negro",
+      "category": "Mamífero",
+      "region": "Tropical y templado",
+      "conservation_status": "Críticamente en peligro",
+      "scientific_name": "Diceros bicornis",
+      "description": "Los rinocerontes negros son grandes mamíferos herbívoros conocidos por su piel oscura y por tener dos cuernos en la cabeza. Son nativos de África y están en grave peligro de extinción debido a la caza furtiva."
+    },
+    {
+      "id": "mammal-koala",
+      "name": "Koala",
+      "category": "Mamífero",
+      "region": "Templado",
+      "conservation_status": "Vulnerable",
+      "scientific_name": "Phascolarctos cinereus",
+      "description": "Los koalas son marsupiales arbóreos nativos de Australia. Se alimentan principalmente de hojas de eucalipto y pasan la mayor parte de su tiempo descansando en los árboles. Son conocidos por su pelaje gris y su aspecto adorable."
+    },
+    {
+      "id": "DFM1699",
+      "name": "Tortuga",
+      "category": "Mamífero",
+      "region": "Tropical",
+      "conservation_status": "Preocupación menor",
+      "scientific_name": "Tortus",
+      "description": "Tortuga caiman",
+      "alt_img": "https://cdn.nubika.es/wp-content/uploads/2022/07/tortuga-caiman-cuales-son-caracteristicas.jpg"
+    }
+  ]
+}
